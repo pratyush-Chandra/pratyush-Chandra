@@ -51,7 +51,7 @@
 ###
 
 <div align="left">
-  <a href="21cs2030@rgipt.ac.in" target="_blank">
+  <a href="mailto:21cs2030@rgipt.ac.in" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/_.pratyush8._" target="_blank">
